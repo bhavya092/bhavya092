@@ -1,7 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Bhavya Mehta</h1>
-<img align="right" width="300" height="300" src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966"/>
+<img align="right" width="300" height="300" src="
+   https://www.ampron.eu/wp-content/uploads/2019/01/code-developer.gif"/>
 
 
 <!-- - 🔭 I’m currently working on [Research] -->
@@ -42,7 +43,7 @@
 <p align="center">
 <a href="https://www.codechef.com/users/bhavyamehta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="bhavyamehta_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhavya-mehta-7380b51b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhavyamehta_" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/adityapatkar22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="adityapatkar_" height="30" width="40" /></a> -->
+
 </p>
 
 
