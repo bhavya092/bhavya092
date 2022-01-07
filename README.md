@@ -1,8 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Bhavya Mehta</h1>
-<img align="right" width="300" height="300" src="
-   https://www.ampron.eu/wp-content/uploads/2019/01/code-developer.gif"/>
+<img align="right" width="300" height="300" src="https://www.ampron.eu/wp-content/uploads/2019/01/code-developer.gif"/>
 
 
 <!-- - 🔭 I’m currently working on [Research] -->
